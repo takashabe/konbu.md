@@ -5,7 +5,7 @@ $(function () {
         "----" ,
         "## Github" ,
         "" ,
-        "<https://github.com/takashabe/>" ,
+        "<https://github.com/takashabe/konbu.md>" ,
         "" ,
         "----" ,
         "" ,
